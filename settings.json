@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "pandew.aternos.me",
+    "port": 12529,
     "version": "",
     "try-creative": false
   },
